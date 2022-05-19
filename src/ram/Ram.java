@@ -185,9 +185,4 @@ class Ram {
         System.out.println("10. Largest among three Numbers Program ");
     }
 
-    void functionToDisplayOverCases() {
-        functionDisplayChoices();
-        System.out.println("Enter a number between 1 to 10 to run any one of the program and any other number to terminate");
-        System.out.println("Your choices : ");
-    }
 }
